@@ -91,6 +91,41 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
         </dict>
         <!-- Built-in constant (i.e. True, False, None, etc.)?-->
         <!-- User defined constant (not sure what they are)? -->
+        <dict>
+            <key>name</key>
+            <string>Variable</string>
+            <key>scope</key>
+            <string>variable</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Keyword</string>
+            <key>scope</key>
+            <string>keyword</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#26A6A6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Storage</string>
+            <key>scope</key>
+            <string>storage</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>italic</string>
+                <key>foreground</key>
+                <string>#26A6A6</string>
+            </dict>
+        </dict>
         </array>
     <key>uuid</key>
     <string>C7931CAF-4733-4307-88E2-9D7CE499FC65</string>
