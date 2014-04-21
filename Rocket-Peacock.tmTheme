@@ -89,7 +89,8 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
                 <string>#BC6FD4</string>
             </dict>
         </dict>
-
+        <!-- Built-in constant (i.e. True, False, None, etc.)?-->
+        <!-- User defined constant (not sure what they are)? -->
         </array>
     <key>uuid</key>
     <string>C7931CAF-4733-4307-88E2-9D7CE499FC65</string>
