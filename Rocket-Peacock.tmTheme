@@ -264,8 +264,37 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
                 <string>#F8F8F0</string>
             </dict>
         </dict>
+        <dict>
+            <key>name</key>
+            <string>Invalid</string>
+            <key>scope</key>
+            <string>invalid</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#00A8C6</string>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#F8F8F0</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Invalid deprecated</string>
+            <key>scope</key>
+            <string>invalid.deprecated</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#8FBE00</string>
+                <key>foreground</key>
+                <string>#F8F8F0</string>
+            </dict>
+        </dict>
         <!-- Tag name -->
         <!-- Tag attributes -->
+
     </array>
     <key>uuid</key>
     <string>C7931CAF-4733-4307-88E2-9D7CE499FC65</string>
