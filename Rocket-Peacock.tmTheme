@@ -292,8 +292,56 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
                 <string>#F8F8F0</string>
             </dict>
         </dict>
-        <!-- Tag name -->
-        <!-- Tag attributes -->
+        <dict>
+            <key>name</key>
+            <string>Tag name</string>
+            <key>scope</key>
+            <string>entity.name.tag</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#26A6A6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Tag attribute</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#FF5D38</string>
+            </dict>
+        </dict>
+
+        <!-- JSON -->
+        <dict>
+            <key>name</key>
+            <string>JSON String</string>
+            <key>scope</key>
+            <string>meta.structure.dictionary.json string.quoted.double.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#CFCFC2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON Punctuation</string>
+            <key>scope</key>
+            <string>meta.structure.dictionary.value.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BCD42A</string>
+            </dict>
+        </dict>
 
         <dict>
             <key>name</key>
@@ -340,6 +388,24 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
             </dict>
         </dict>
 
+        <dict>
+            <key>scope</key>
+            <string>constant.numeric.line-number.find-in-files - match</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#6a8710</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>scope</key>
+            <string>entity.name.filename.find-in-files</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#E6DB74</string>
+            </dict>
+        </dict>
 
     </array>
     <key>uuid</key>
