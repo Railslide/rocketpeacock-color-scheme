@@ -316,6 +316,173 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
             </dict>
         </dict>
 
+        <!--CSS-->
+        <dict>
+            <key>name</key>
+            <string>CSS: numeric constants</string>
+            <key>scope</key>
+            <string>constant.numeric.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BCD42A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: color values</string>
+            <key>scope</key>
+            <string>constant.other.color.rgb-value.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BCD42A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: tags</string>
+            <key>scope</key>
+            <string>entity.name.tag.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#26A6A6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: class</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.class.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#26A6A6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: id</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.id.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#26A6A6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: attribute selector</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.attribute.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BCD42A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: pseudo elements</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.pseudo-element.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BC6FD4</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: pseudo classes</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.pseudo-class.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BC6FD4</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: @ rules</string>
+            <key>scope</key>
+            <string>keyword.control.at-rule.media.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#26A6A6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: units</string>
+            <key>scope</key>
+            <string>keyword.other.unit.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BCD42A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: color names</string>
+            <key>scope</key>
+            <string>support.constant.color.w3c-standard-color-name.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BCD42A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: font names</string>
+            <key>scope</key>
+            <string>support.constant.font-name.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BCD42A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: media types</string>
+            <key>scope</key>
+            <string>support.constant.media.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F92672</string>
+            </dict>
+        </dict>
+         <dict>
+            <key>name</key>
+            <string>CSS: property values</string>
+            <key>scope</key>
+            <string>support.constant.property-value.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BCD42A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: functions</string>
+            <key>scope</key>
+            <string>support.function.misc.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BC6FD4</string>
+            </dict>
+        </dict>
+
         <dict>
             <key>name</key>
             <string>diff.header</string>
@@ -358,6 +525,39 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
             <dict>
                 <key>foreground</key>
                 <string>#E6DB74</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: color names</string>
+            <key>scope</key>
+            <string>support.constant.color.w3c-standard-color-name.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BCD42A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: font names</string>
+            <key>scope</key>
+            <string>support.constant.font-name.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BCD42A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: media types</string>
+            <key>scope</key>
+            <string>support.constant.media.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F92672</string>
             </dict>
         </dict>
 
