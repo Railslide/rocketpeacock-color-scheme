@@ -312,7 +312,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#BCD42A</string>
+                <string>#F92672</string>
             </dict>
         </dict>
 
