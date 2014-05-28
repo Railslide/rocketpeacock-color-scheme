@@ -479,7 +479,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#BC6FD4</string>
+                <string>#26A6A6</string>
             </dict>
         </dict>
 
@@ -525,28 +525,6 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
             <dict>
                 <key>foreground</key>
                 <string>#E6DB74</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>CSS: color names</string>
-            <key>scope</key>
-            <string>support.constant.color.w3c-standard-color-name.css</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#BCD42A</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>CSS: font names</string>
-            <key>scope</key>
-            <string>support.constant.font-name.css</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#BCD42A</string>
             </dict>
         </dict>
 
