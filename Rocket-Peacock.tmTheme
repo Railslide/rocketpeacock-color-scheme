@@ -549,17 +549,6 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
                 <string>#BCD42A</string>
             </dict>
         </dict>
-        <dict>
-            <key>name</key>
-            <string>CSS: media types</string>
-            <key>scope</key>
-            <string>support.constant.media.css</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#F92672</string>
-            </dict>
-        </dict>
 
         <dict>
             <key>scope</key>
