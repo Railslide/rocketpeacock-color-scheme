@@ -265,6 +265,22 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
             </dict>
         </dict>
 
+        <!-- HTML -->
+        <dict>
+            <key>name</key>
+            <string>HTML: doctype</string>
+            <key>scope</key>
+            <string>meta.tag.sgml.html meta.tag.sgml.doctype.html</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string></string>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#26A6A6</string>
+            </dict>
+        </dict>
         <dict>
             <key>name</key>
             <string>Tag name</string>
